@@ -33,8 +33,8 @@ The data for this project is provided in the `jsondata.json` file.
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AyushiPathak17/Data-Visualization-Dashboard
+   cd https://github.com/AyushiPathak17/Data-Visualization-Dashboard
 
 2. **How to run the Application**
 - Open the terminal and navigate to the backend folder.
